@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mayndi.lemos/Documentos/Mayndi/Architecture-Fundamentals/ArchitectureFundamentals/ArchitectureFundamentals.csproj": {}
+  },
+  "projects": {
+    "/home/mayndi.lemos/Documentos/Mayndi/Architecture-Fundamentals/ArchitectureFundamentals/ArchitectureFundamentals.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mayndi.lemos/Documentos/Mayndi/Architecture-Fundamentals/ArchitectureFundamentals/ArchitectureFundamentals.csproj",
+        "projectName": "ArchitectureFundamentals",
+        "projectPath": "/home/mayndi.lemos/Documentos/Mayndi/Architecture-Fundamentals/ArchitectureFundamentals/ArchitectureFundamentals.csproj",
+        "packagesPath": "/home/mayndi.lemos/.nuget/packages/",
+        "outputPath": "/home/mayndi.lemos/Documentos/Mayndi/Architecture-Fundamentals/ArchitectureFundamentals/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mayndi.lemos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://stonepagamentos.pkgs.visualstudio.com/_packaging/FinancialProductsArtifacts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

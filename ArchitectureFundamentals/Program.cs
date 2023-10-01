@@ -1,0 +1,1 @@
+﻿Console.WriteLine("My project of Architecture Fundamentals");
