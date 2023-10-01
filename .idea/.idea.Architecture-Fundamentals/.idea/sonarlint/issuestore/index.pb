@@ -1,0 +1,15 @@
+
+j
+:ArchitectureFundamentals/OOP/Abstraction/HomeAppliances.cs,b/a/baa7342facdb314cde37deebca3bd1e511351082
+d
+4ArchitectureFundamentals/OOP/Inheritance/Employee.cs,8/f/8f17e9981f58f5022b66d3b0bec1199e2d2d1fb6
+f
+6ArchitectureFundamentals/OOP/StateVsBehavior/People.cs,3/7/37a9668c82a60380cfa924a49f5f7e6f083e1e4a
+c
+3ArchitectureFundamentals/OOP/ClassVsObject/House.cs,7/2/72a72082483b0429dc218d9dd84a06bee39c3d2f
+j
+:ArchitectureFundamentals/OOP/Polymorphism/CoffeeMachine.cs,5/c/5cba65b4a732f31e9f95cd139faddd6855fd4e7a
+u
+EArchitectureFundamentals/OOP/InterfaceVsImplementation/IRepository.cs,f/6/f6cc291307345808dc0448edc68baa5da90f2b0d
+n
+>ArchitectureFundamentals/OOP/Encapsulation/CoffeeAutomation.cs,5/4/547a616f20aee13754ae0f24e5cbb641ea09c8f0
