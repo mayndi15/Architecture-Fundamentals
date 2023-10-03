@@ -21,3 +21,51 @@ S
 #ArchitectureFundamentals/Program.cs,a/4/a4da59bb42e948db374be0418ac366670e06b318
 h
 8ArchitectureFundamentals/SOLID/SRP/Violation/Customer.cs,9/0/90f3ba676b6b1f33901f65f5f17034dd89567e2c
+k
+;ArchitectureFundamentals/SOLID/SRP/Solution/EmailService.cs,4/3/432b073cedbb055e3d3dac37aa082fc593f59b99
+d
+4ArchitectureFundamentals/SOLID/SRP/Solution/Email.cs,c/6/c63fa5dc0f95db84d67a1e4b2f9d9f33c84b2e4b
+n
+>ArchitectureFundamentals/SOLID/SRP/Solution/CustomerService.cs,7/9/796c632ae75c5fd3a9e0ec3cd928e5861dbfc76f
+q
+AArchitectureFundamentals/SOLID/SRP/Solution/CustomerRepository.cs,f/c/fc603fa6ed91aa8e15d51352f6743fc2ed3433ed
+g
+7ArchitectureFundamentals/SOLID/SRP/Solution/Customer.cs,4/0/4053f3e60673894a2fd6badd823302e223ec8a0c
+b
+2ArchitectureFundamentals/SOLID/SRP/Solution/Cpf.cs,b/b/bb1eef2e7c0e096ce1649155a2c9b9728036ccc3
+g
+7ArchitectureFundamentals/SOLID/OCP/Violation/Account.cs,9/d/9d50bebfe98ce819cad6001c4841f2344107155f
+k
+;ArchitectureFundamentals/SOLID/OCP/Solution/DebitAccount.cs,a/0/a06e07118c7039447bdacd94df97fe689192250f
+u
+EArchitectureFundamentals/SOLID/OCP/Solution/DebitAccountInvestment.cs,4/0/4090445919c2086e27a384f48c7903416f2ea622
+r
+BArchitectureFundamentals/SOLID/OCP/Solution/DebitAccountSavings.cs,7/5/75ee4077040dd321514c0b4a6241ae5ac8f3b720
+k
+;ArchitectureFundamentals/SOLID/OCP/Violation/AccountType.cs,c/1/c1e19b28d7f5941455c7a36e606fdfcd766c51f8
+s
+CArchitectureFundamentals/SOLID/OCP/Solution/DebitAccountChecking.cs,7/2/7292837886421661ed0d4ecab92e6da755c8ed38
+}
+MArchitectureFundamentals/SOLID/OCP/Solution-Extension Methods/DebitAccount.cs,d/2/d22ca9bbed1508a7394520425c45054abfeb0814
+‡
+WArchitectureFundamentals/SOLID/OCP/Solution-Extension Methods/DebitAccountInvestment.cs,0/1/0174d6cad5dd6122b4c0df01677df85605a9b687
+…
+UArchitectureFundamentals/SOLID/OCP/Solution-Extension Methods/DebitAccountChecking.cs,c/6/c61e23893f303f7e108dd8bc7cac157dbd5f35b0
+„
+TArchitectureFundamentals/SOLID/OCP/Solution-Extension Methods/DebitAccountSavings.cs,a/a/aac54c2851a260539bcf3df790e3d1b6db60b76a
+t
+DArchitectureFundamentals/SOLID/OCP/Solution-Extension Methods/ATM.cs,d/4/d4188999a7acf1eb90ac5219413ec2f2022182c1
+f
+6ArchitectureFundamentals/SOLID/LSP/Violation/Square.cs,6/5/652560c39a0896a5586e4741b24d4d9e4f4d8193
+i
+9ArchitectureFundamentals/SOLID/LSP/Violation/Rectangle.cs,d/7/d79ea106f669aed0a55ae8f19c6a6236408cafa1
+h
+8ArchitectureFundamentals/SOLID/LSP/Solution/Rectangle.cs,f/6/f65e1c65aaf27adcb1aa1699608ea00fd2a30e94
+l
+<ArchitectureFundamentals/SOLID/LSP/Solution/Parallelogram.cs,d/0/d02d5b1f453ebbc1c69ea43352fd945221641741
+m
+=ArchitectureFundamentals/SOLID/LSP/Violation/CalculateArea.cs,5/7/57a9432b4e71eab3ecedd3beb7456f659e66e2c2
+e
+5ArchitectureFundamentals/SOLID/LSP/Solution/Square.cs,b/c/bc1cd36f08234cc046ab674251e2ac3ee13be22d
+l
+<ArchitectureFundamentals/SOLID/LSP/Solution/CalculateArea.cs,c/7/c768a57d6d93c4f5d371595dbf043b6752458abe
